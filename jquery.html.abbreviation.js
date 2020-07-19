@@ -4,7 +4,7 @@
  * Author       : Riza TTNT
  * Date Created : 17th, July 2020
  * Last Updated : -
- * License      : GPL
+ * License      : MIT
  * Description  : Inspired from 'emmet abbreviations' plugin (emmet.io) which mean,
  *                this function for expanding html abbreviation pharses for jQuery's fans
  *                
