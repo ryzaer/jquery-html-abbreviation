@@ -34,7 +34,7 @@
     * this is some common regex pharses 
     */
     
-    var parentProp  = /(blockquote|progress|optgroup|textarea|colgroup|section|details|marquee|summary|button|select|option|center|canvas|source|script|footer|strong|style|heder|tbody|thead|table|input|video|label|embed|meter|param|audio|meta|link|form|font|area|html|head|body|main|menu|abbr|span|div|img|col|nav|pre|map|h3|hr|br|h1|h4|ul|ol|li|tr|th|td|h2|h6|h5|u|p|i|a)/g;
+    var parentProp  = /(blockquote|progress|optgroup|textarea|colgroup|section|details|marquee|summary|button|select|option|center|canvas|source|script|footer|strong|style|heder|tbody|thead|table|input|video|label|embed|meter|param|audio|meta|link|form|font|area|html|head|body|main|menu|abbr|span|div|img|col|nav|pre|map|h3|hr|br|h1|h4|ul|ol|li|tr|th|td|h2|h6|h5|u|p|i|a|b)/g;
     var noEndSpr    = ['source','param','input','embed','meta','link','col','img','br','hr'];
     
     /*
