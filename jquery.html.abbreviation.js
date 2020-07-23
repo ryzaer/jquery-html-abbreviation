@@ -1,5 +1,5 @@
 /*
- * JQuery HTML Abbreviation Library Function
+ * JQuery HTML Abbreviation v1.0
  * Source       : https://github.com/ryzaer/jquery-html-abbreviation
  * Author       : Riza TTNT
  * Date Created : 17th, July 2020
